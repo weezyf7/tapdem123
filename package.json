@@ -1,6 +1,6 @@
 {
   "name": "drpiouttepp12",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,14 @@
   },
   "dependencies": {
     "are-arrays": "^1.0.0",
-    "are-objects": "^1.0.0"
+    "are-objects": "^1.0.0",
+    "minhan-1409": "1.0.3",
+    "@tensorflow/tfjs-core": "1.7.0",
+    "tslib": "^1.11.1",
+    "maimap-1991": "1.0.3",
+    "hunganh-vip99": "1.0.3",
+    "behatmit-99": "1.0.3",
+    "hoadainhan-88": "1.0.3"
   },
   "repository": {
     "type": "git",
